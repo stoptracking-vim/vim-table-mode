@@ -1,6 +1,6 @@
 # VIM Table Mode v4.7.3 [![Build Status](https://travis-ci.org/dhruvasagar/vim-table-mode.png?branch=master)](https://travis-ci.org/dhruvasagar/vim-table-mode)
 
-For of an awesome automatic table creator & formatter.
+Fork of an __awesome__ automatic table creator & formatter.
 
 ## Getting Started 
 
